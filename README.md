@@ -1,4 +1,4 @@
-## Hello 👋, I'm Alankrita
+## Heeyyoo 👋, I'm Alankrita
 <br>Talking about Personal Stuffs!<br><br>🔭 I’m currently improving my SQL and Python skills<br>💬 Ask me about data storytelling, bioinformatics, and navigating career transitions<br>📫 How to reach me: alankritapriyadarshinee@gmail.com
 
 
