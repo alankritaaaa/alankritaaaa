@@ -1,13 +1,18 @@
-## Heeyyoo 👋, I'm Alankrita
-<br>Talking about Personal Stuffs!<br><br>🔭 I’m currently improving my SQL and Python skills<br>💬 Ask me about data storytelling, bioinformatics, and navigating career transitions<br>📫 How to reach me: alankritapriyadarshinee@gmail.com
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alankrita-priyadarshinee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailtoalankritapriyadarshinee@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alankritaaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alankritaaaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alankritaaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=alankritaaaa&icon=0&color=0)](https://visitcount.itsvg.in)
+Readme · MD
+# Heeyyoo 👋, I'm Alankrita
+ 
+Bioinformatics grad turned data person ~ I like turning messy data into decisions.
+ 
+- 🎓 M.Sc. Bioinformatics, Pondicherry University - thesis on AI-driven drug side effect prediction & smart substitution recommendation
+- 🔭 Currently on a from-scratch NLP sprint - `RNNs → CNNs → Transformers/BERT → RAG — while sharpening SQL and Python`
+- 🧭 Prepping to transition out of my current internship into a Data Analyst / Data Science role
+- 🧪 Past life: managed a Coca-Cola distributorship (350+ outlets, 100 SKUs) - real-world ops data before I ever called it "data"
+- 💬 Ask me about data, bioinformatics or navigating a career pivot
+- 📫 Reach me: [alankritapriyadarshinee@gmail.com](mailto:alankritapriyadarshinee@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alankrita-priyadarshinee)
+ 
+## 📊 GitHub Stats
+ 
+![Alankrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=alankritaaaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alankritaaaa&layout=compact&theme=radical)
