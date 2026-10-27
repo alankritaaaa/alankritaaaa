@@ -4,13 +4,15 @@ Readme · MD
  
 Bioinformatics grad turned data person ~ I like turning messy data into decisions.
  
-- 🎓 M.Sc. Bioinformatics, Pondicherry University - thesis on AI-driven drug side effect prediction & smart substitution recommendation
-- 🔭 Currently on a from-scratch NLP sprint - `RNNs → CNNs → Transformers/BERT → RAG — while sharpening SQL and Python`
-- 🧭 Prepping to transition out of my current internship into a AI-ML/Data Science role
-- 🧪 Past life: managed a Coca-Cola distributorship (350+ outlets, 100 SKUs) - real-world ops data before I ever called it "data"
-- 💬 Ask me about data, bioinformatics or navigating a career pivot
-- 📫 Reach me: [alankritapriyadarshinee@gmail.com](mailto:alankritapriyadarshinee@gmail.com)
+- 🎓 M.Sc. Bioinformatics, Pondicherry University: thesis on AI-driven drug side effect prediction & smart substitution recommendation
+- 🔭 Recently built [Banking Support AI](https://github.com/alankritaaaa/Banking_Support_AI): BERT intent classifier (77 intents, 89.6% test accuracy), a QLoRA-tuned TinyLlama and a FAISS-based RAG pipeline, with confidence-based escalation and Streamlit demos
+- 🧪 Also built: fraud detection on 6.3M transactions (XGBoost/RF), drug risk prediction (R² = 0.81), LSTM spam filter, CNN digit classifier
+- 🏪 Past life: managed a Coca-Cola distributorship (350+ outlets, 100 SKUs), real-world ops data before I ever called it "data"
+- 🤝 Open to junior AI/ML and NLP roles, and happy to collab
+- 📫 Reach me: alankritapriyadarshinee@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alankrita-priyadarshinee)
+
+
  
 ## 🛠️ Tech Stack
  
@@ -27,3 +29,14 @@ Bioinformatics grad turned data person ~ I like turning messy data into decision
 [![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![BERT](https://img.shields.io/badge/-BERT-412991?style=flat-square)](https://huggingface.co/docs/transformers/model_doc/bert)
+[![PEFT](https://img.shields.io/badge/-PEFT-6A5ACD?style=flat-square)](https://huggingface.co/docs/peft)
+[![QLoRA](https://img.shields.io/badge/-QLoRA-FF69B4?style=flat-square)](https://arxiv.org/abs/2305.14314)
+[![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)](https://github.com/facebookresearch/faiss)
+[![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FFB000?style=flat-square)](https://www.sbert.net)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square)](https://xgboost.readthedocs.io)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
